@@ -65,7 +65,6 @@ header {
     color: #676fff;
     font-size: 24px;
     margin-bottom: 20px;
-
 }
 
 .dsmeta-form-control {
@@ -102,7 +101,6 @@ header {
     font-weight: 400;
     color: #CFCFCF;
     text-align: center;
-
 }
 
 .dsmeta-sales-table tbody tr {
@@ -170,4 +168,3 @@ header {
         display: table-cell;
     }
 }
-
